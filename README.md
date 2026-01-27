@@ -12,7 +12,7 @@ Big believer in:
 
 I’m a US/EU (German) dual citizen and UK Global Talent visa holder. I am based in London with international experience across Germany and the US.
 
-🔭 I’m on the core leadership team at **@Couchers-org**, a nonprofit hospitality exchange platform focused on community and cultural exchange. I help set strategy, unblock teams, and make sure things actually get done.  
+🔭 I’m on the core leadership team at [@Couchers-org](https://github.com/Couchers-org/couchers), a nonprofit hospitality exchange platform focused on community and cultural exchange. I help set strategy, unblock teams, and make sure things actually get done.  
 Right now I’m wrapping up Couchers’ mobile app using **React Native + Expo**.
 
 🌱 Currently improving my Python skills so I can contribute more deeply to Couchers’ backend (and because I’m impatient).
