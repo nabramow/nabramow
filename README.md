@@ -10,14 +10,12 @@ Big believer in:
 - 🤝 Diverse perspectives in tech → better systems  
 - 🕊️ Tech that makes the world better, not louder  
 
-I’m a US/EU (German) dual citizen and UK Global Talent visa holder. I am based in London with international experience across Germany and the US.
+London-based. US/EU (German) dual citizen, UK Global Talent visa holder.
 
-🔭 I’m on the core leadership team at [@Couchers-org](https://github.com/Couchers-org/couchers), a nonprofit hospitality exchange platform focused on community and cultural exchange. I help set strategy, unblock teams, and make sure things actually get done.  
-Right now I’m wrapping up Couchers’ mobile app using **React Native + Expo**.
+🔭 Core leadership team + core contributor at [@Couchers-org](https://github.com/Couchers-org/couchers), a nonprofit hospitality exchange platform focused on community and cultural exchange. I help set direction, ship features, and keep things moving. Currently finishing the mobile app.
 
-🌱 Currently improving my Python skills so I can contribute more deeply to Couchers’ backend (and because I’m impatient).
+❤️ I work only with companies that aren’t making the world worse—environmentally, politically, or socially. Bonus points if they actively make it better 😉.
 
-❤️ I try to work only with companies that aren’t making the world worse environmentally, politically, or socially. Bonus points if they’re actively making it better 😉.
+⚡ Fun fact: I worked on a ship in Antarctica and once ended up in a Febreze commercial.
 
-⚡ Fun fact: I once worked on a ship in Antarctica (the only person onboard who'd ever had an office job) and accidentally ended up in a Febreze commercial after agreeing to be blindfolded and put into a van by strangers.  
 Risk tolerance: high. Judgment: mostly sound.
