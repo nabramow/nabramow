@@ -16,6 +16,6 @@ London-based. UK Global Talent visa holder, US/EU (German) dual citizen.
 
 ❤️ I work only with companies that aren’t making the world worse—environmentally, politically, or socially. Bonus points if they actively make it better 😉.
 
-⚡ Fun fact: I worked on a ship in Antarctica and once ended up in a Febreze commercial.
+⚡ Fun fact: I am good at side quests. My best include working on a ship in Antarctica and accidentally ending up in a Febreze commercial that paid me thousands of euros.
 
 Risk tolerance: high. Judgment: mostly sound.
