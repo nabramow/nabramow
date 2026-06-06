@@ -12,10 +12,10 @@ Big believer in:
 
 London-based. UK Global Talent visa holder, US/EU (German) dual citizen.
 
-🔭 Core leadership team + core contributor at [@Couchers-org](https://github.com/Couchers-org/couchers), a nonprofit hospitality exchange platform focused on community and cultural exchange. I do full stack and mobile development, help set product direction, and keep things moving. Currently finishing the mobile app.
+🔭 Core leadership team + core contributor at [@Couchers-org](https://github.com/Couchers-org/couchers), a nonprofit hospitality exchange platform focused on community and cultural exchange. I do full stack and mobile development, help set product direction, and keep things moving. Recently released our mobile app to the Apple App and Google Play stores (search "couchers.org" there).
 
 ❤️ I work only with companies that aren’t making the world worse—environmentally, politically, or socially. Bonus points if they actively make it better 😉.
 
-⚡ Fun fact: I am good at side quests. My best include working on a ship in Antarctica and accidentally ending up in a Febreze commercial that paid me thousands of euros.
+⚡ Fun fact: I am good at side quests. My best include working on a ship in Antarctica, accidentally ending up in a Febreze commercial that paid me thousands of euros, and co-organizing a fashion show in northern Thailand.
 
 Risk tolerance: high. Judgment: mostly sound.
