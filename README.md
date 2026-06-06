@@ -12,7 +12,7 @@ Big believer in:
 
 London-based. UK Global Talent visa holder, US/EU (German) dual citizen.
 
-🔭 Core leadership team + core contributor at [@Couchers-org](https://github.com/Couchers-org/couchers), a nonprofit hospitality exchange platform focused on community and cultural exchange. I do full stack and mobile development, help set product direction, and keep things moving. Recently released our mobile app to the Apple App and Google Play stores (search "couchers.org" there).
+🔭 Core leadership team + core contributor at [@Couchers-org](https://github.com/Couchers-org/couchers), a nonprofit hospitality exchange platform focused on community and cultural exchange. I do full stack and mobile development, help set product direction, and keep things moving. Recently released our mobile app on [iOS](https://apps.apple.com/us/app/couchers-org/id6623776751 and [Google Play](https://play.google.com/store/apps/details?id=org.couchers.android).
 
 ❤️ I work only with companies that aren’t making the world worse—environmentally, politically, or socially. Bonus points if they actively make it better 😉.
 
